@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('v1 amend')
+console.log('v66')
